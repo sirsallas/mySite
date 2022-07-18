@@ -153,6 +153,7 @@ margin: 100px auto auto auto;
   background-image: linear-gradient(to bottom, #bede9b, #b6d695);
   text-decoration: none;
 }
+
 .cv{
   background: #faf4bb;
   background-image: -webkit-linear-gradient(top, #faf4bb, #8c8861);
@@ -178,4 +179,6 @@ margin: 100px auto auto auto;
   background-image: linear-gradient(to bottom, #bede9b, #b6d695);
   text-decoration: none;
 }
-
+.frontend-link{
+  text-decoration: underline;
+}
